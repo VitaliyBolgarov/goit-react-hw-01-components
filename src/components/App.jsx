@@ -10,7 +10,6 @@ import { FriendList } from './Friends/FriendList/FriendList';
 import transactions from './TransactionHistory/transactions.json';
 import { TransactionHistory } from './TransactionHistory/TransactionHistory';
 
-
 import { GlobalStyle } from '../GlobalStyle';
 import { Box } from './Box';
 
